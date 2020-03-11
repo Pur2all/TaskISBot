@@ -9,5 +9,5 @@ This script to run require these libraries:
 
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
-* [WiccioGramBot](https://github.com/Pur2all/MyTelegramBotAPI)
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
 
