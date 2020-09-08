@@ -161,3 +161,5 @@ initialize_tasks_file()
 do_logout()
 check_tasks_process = mp.Process(name="Check Tasks", target=check_tasks, args=(do_login, [username, password]))
 check_tasks_process.start()
+
+bot.polling(none_stop=False)
